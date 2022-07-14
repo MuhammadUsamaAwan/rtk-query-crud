@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "author": "Jane Doe"
+    },
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "author": "Jane Doe"
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "author": "Jane Doe"
+    },
+    {
+      "id": "4",
+      "title": "My First Post",
+      "author": "John Doe"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
